@@ -1,4 +1,6 @@
 target/
+spark_jars/
+Makefile
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
